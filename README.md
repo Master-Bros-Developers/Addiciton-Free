@@ -18,13 +18,12 @@ All data will remain **local** on the user’s device because I want to respect 
 ## 🏁 Goals
 
 
-- ✅ Project desription
-- ✅ Python prototype
-- ✅ Design the app interface
-- ✅ Write the app's front end
-- ✅ Write the app's back end
-- ✅ Make the icon name of the app
+- ✅ Help get over addiciton
+- ✅ Calendar view
+- ✅ Streak counting 🔥
+- ✅ Motivational quotes
 - ✅ Make haptic feedback
+- ✅ Make the app on device, private 🔐
 
 ## 📷 Screenshots
 
